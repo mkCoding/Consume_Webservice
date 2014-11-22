@@ -1,0 +1,30 @@
+*C# ASP.NET Consume Webservice*
+
+What was used to develop the application:
+ Visual Studios (2010)
+ HTML, ASP.NET, C# coding
+ Created Webservice
+ External Webservice(http://www.webservicex.com/globalweather.asmx)
+
+Summary:
+ This application is an ASP.Net website that consumes 2 webservices on 1 page. 
+ The first service adds 2 numbers together. The second one consumes an external
+ weather webservice. The front-end takes input from the user and processes the 
+ input and uses the webservice to returns a result
+
+How to use:
+Run the application
+The first page will consist of 2 sections
+ Add Numbers
+ This allows user to input 2 numbers and calls a webservice to
+ find the sum of the 2 numbers
+ 
+ Weather
+ This allows user to input the City and State which will be passed
+ to a webservice and return Weather for the passed in values
+
+Notes:
+
+ I tried to use Google App Engine to put this online, but found out
+ ASP.NET applications are not supported. If there is a way anyone knows
+ how to put it online let me know.
