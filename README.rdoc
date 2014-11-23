@@ -5,7 +5,7 @@ What was used to develop the application
  ASP.NET Website
  HTML, ASP.NET, C# coding
  Created Webservice
- External Webservice(http://www.webservicex.com/globalweather.asmx)
+ External Webservice(http://wsf.cdyne.com/WeatherWS/Weather.asmx)
 
 Summary:
  This application is an ASP.Net website that consumes 2 webservices on 1 page. 
