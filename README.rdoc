@@ -1,7 +1,8 @@
 <b>C# ASP.NET Consume Webservice</b>
 
-What was used to develop the application:
+What was used to develop the application
  Visual Studios (2010)
+ ASP.NET Website
  HTML, ASP.NET, C# coding
  Created Webservice
  External Webservice(http://www.webservicex.com/globalweather.asmx)
@@ -20,8 +21,9 @@ The first page will consist of 2 sections
  find the sum of the 2 numbers
  
  Weather
- This allows user to input the City and State which will be passed
- to a webservice and return Weather for the passed in values
+ This allows user to input a zip code which will be passed
+ to a webservice and return Weather associated weather information
+ (city, state, weather,description,temperature, relative humidity,wind, pressure)
 
 Notes:
 
