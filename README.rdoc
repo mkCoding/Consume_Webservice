@@ -14,8 +14,11 @@ Summary:
  input and uses the webservice to returns a result
 
 How to use:
+
 Run the application
+
 The first page will consist of 2 sections
+ 
  Add Numbers
  This allows user to input 2 numbers and calls a webservice to
  find the sum of the 2 numbers
